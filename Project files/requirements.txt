@@ -1,0 +1,23 @@
+streamlit==1.26.0
+streamlit-lottie==0.0.3
+python-docx==0.8.11
+plotly==5.15.0
+selenium==4.11.2
+webdriver-manager==4.0.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.2.2
+# requirements.txt
+streamlit==1.26.0
+streamlit-lottie==0.0.3
+python-docx==0.8.11
+plotly==5.15.0
+selenium==4.11.2
+webdriver-manager==4.0.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.2.2
+PyPDF2==3.0.1
+spacy==3.7.2 
